@@ -1,6 +1,5 @@
 # Content Analysis of PROMS for OSAS
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vincentpmartin/circadian.content.analysis/main?labpath=jupyter_notebook_circadian_content_analysis.ipynb)
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a
