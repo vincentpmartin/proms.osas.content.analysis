@@ -11,7 +11,7 @@ The data and notebook contained in this repository foster the reproducibility of
 
 
 ## HTML files, tables and figures
-The analyze files corresponding to the [current study](https://rawcdn.githack.com/vincentpmartin/sleep-content-analysis/8d6e3ee1891f97288080d1ab9bafbf315e9ac1e2/jupyter_notebook_sleep_content_analysis.html) are available in this repository. <br>
+The analyze files corresponding to the [current study](./jupyter_notebook_sleep_content_analysis.html) are available in this repository. <br>
 The figures and tables produced by this code are available in the [./tables_and_figures](./tables_and_figures) folder. 
 
 ## Contact
